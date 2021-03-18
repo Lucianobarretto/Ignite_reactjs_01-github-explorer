@@ -8,7 +8,7 @@
   <kbd><img align="center" src="Passaporte-react-js.png" width="300"/></kbd>
 </p>
 
-<h5 align="center">Nesse módulo criaremos a estrutura base de uma aplicação React utilizando ferramentas como Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh e descobriremos conceitos importantes do React como componentes, propriedades, estados e hooks além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.</h5>
+<h5 align="center">Nesse módulo criaremos a estrutura base de uma aplicação React utilizando ferramentas como Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh e descobriremos conceitos importantes do React como componentes, propriedades, estados e hooks além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.  :octocat:</h5>
 
 <h2 align="center">Under Construction</h2>
 
