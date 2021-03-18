@@ -1,5 +1,4 @@
-# Ignite_reactjs_01-github-explorer
-<h1 align="center">Ignite (Trilha ReactJS - Chapter I)</h1>
+# <h1 align="center">Ignite (Trilha ReactJS - Chapter I)</h1>
 
 <h2 align="center">Estrutura do ReactJS (Rocketseat)</h2>
 
